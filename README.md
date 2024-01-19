@@ -2,7 +2,7 @@
 Credit card fraud poses a significant threat to both financial institutions and cardholders.This project employs exploratory data analysis (EDA), visualization techniques, and machine learning to gain insights into the dataset, understand patterns, and build an effective fraud detection model.
 # Objective
 1. To implement Exploratory Data Analysis (EDA)
-2. Machine Learning Model Implementation:
+2. Machine Learning Model Implementation
 3. Model Evaluation for Accuracy Enhancement
 # Methodology
 1. Data Collection:Collect credit card transaction details from Kaggle for analysis and organise in csv file.
