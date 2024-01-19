@@ -15,8 +15,11 @@ for model development and evaluation.
 Precision,Recall and F1 score.
 # Dependencies
 Numpy
+
 Pandas
+
 SciKit-Learn
+
 Matplotlib
 # Contents of this Notebook
 1. Data analysis of legit and fraud cases.
